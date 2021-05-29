@@ -282,6 +282,11 @@ void SaveBitmap(unsigned char *data, int width, int height, int bpp, CString str
 }
 
 
+void SendSocket(char sendbuf)
+{
+
+}
+
 //错误回调
 static int ctx_open_timeout_interrupt_cb(LPVOID lpParam)
 {
@@ -583,7 +588,7 @@ DWORD WINAPI CCPosRtspDemoDlg::PlayerWorkThread(LPVOID lpParam)
 					strFileName.Format(_T("%s%s_%d.bmp"), strExePath, timeNow.Format(_T("%Y-%m-%d %H.%M.%S")), capture_cnt++);
 
 					SaveBitmap(pFrameBGR->data[0], pCodecCtx->width, pCodecCtx->height, 24, strFileName);//把解码的BMP数据保存到BMP文件中
-					
+					// SendSocket()
 					if (capture_cnt >= capture_amount)pThis->m_iCapture = -1; //最后一张保存后结束
 				}
 				else

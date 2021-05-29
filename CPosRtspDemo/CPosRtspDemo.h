@@ -8,7 +8,7 @@
 	#error "include 'stdafx.h' before including this file for PCH"
 #endif
 
-#include "resource.h"		// main symbols
+#include "RTSPResource.h"		// main symbols
 
 
 // CCPosRtspDemoApp:
