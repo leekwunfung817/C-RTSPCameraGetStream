@@ -1,10 +1,7 @@
-﻿  CPosRtspDemo.cpp
-  CPosRtspDemoDlg.cpp
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\C-RTSPCameraGetStream\CPosRtspDemo\CPosRtspDemoDlg.cpp(383,17): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\C-RTSPCameraGetStream\CPosRtspDemo\CPosRtspDemoDlg.cpp(791,11): warning C4018: '>': signed/unsigned mismatch
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (PythonSocket.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CPosRtspDemo.cpp
   Generating code
-  0 of 212 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 237 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   CPosRtspDemo.vcxproj -> C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\C-RTSPCameraGetStream\Release\CPosRtspDemo.exe
