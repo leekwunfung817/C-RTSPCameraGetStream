@@ -1,0 +1,11 @@
+﻿  PythonSocketDlg.cpp
+C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\SocketCom-CPPImageToPythonReturnText\PythonSocket\PythonSocket\PythonSocketDlg.cpp(203,29): warning C4244: '=': conversion from 'ULONGLONG' to 'UINT', possible loss of data
+C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\SocketCom-CPPImageToPythonReturnText\PythonSocket\PythonSocket\PythonSocketDlg.cpp(222,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\SocketCom-CPPImageToPythonReturnText\PythonSocket\PythonSocket\PythonSocketDlg.cpp(240,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\SocketCom-CPPImageToPythonReturnText\PythonSocket\PythonSocket\PythonSocketDlg.cpp(179,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Generating code
+  0 of 181 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PythonSocket.vcxproj -> C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\SocketCom-CPPImageToPythonReturnText\PythonSocket\Release\PythonSocket.exe

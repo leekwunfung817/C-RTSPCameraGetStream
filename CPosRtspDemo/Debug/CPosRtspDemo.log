@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  CPosRtspDemo.cpp
+  CPosRtspDemoDlg.cpp
+C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\C-RTSPCameraGetStream\CPosRtspDemo\CPosRtspDemoDlg.cpp(378,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\C-RTSPCameraGetStream\CPosRtspDemo\CPosRtspDemoDlg.cpp(786,11): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  CPosRtspDemo.vcxproj -> C:\Users\Ivan Lee\Documents\Software project\Machine learning\AI\CPOS\C-RTSPCameraGetStream\Debug\CPosRtspDemo.exe
